@@ -1,1 +1,18 @@
-{ }
+{
+  "webSocketVariable1" : {
+    "_id" : "wm-webSocketVariable1-wm.WebSocketVariable-1542367982201",
+    "name" : "webSocketVariable1",
+    "owner" : "Page",
+    "category" : "wm.WebSocketVariable",
+    "dataBinding" : [ ],
+    "service" : "Heartrate",
+    "operationId" : "Heartrate_WebSocketServiceVirtualController-invoke",
+    "dataSet" : [ ],
+    "type" : "Heartrate.RootResponse",
+    "isDefault" : false,
+    "isList" : false,
+    "startUpdate" : true,
+    "dataUpdateStrategy" : "refresh",
+    "dataLimit" : 20
+  }
+}
